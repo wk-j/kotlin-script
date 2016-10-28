@@ -9,3 +9,5 @@
 - [x] [Function return function](Single/FunctionReturnFunction)
 - [x] [Primary constructor](Single/PrimaryConstructor)
 - [x] [Infix notation](Single/InfixNotation)
+- [x] [Data class](Single/DataClass)
+- [x] [Mutable data class](Single/MutableDataClass)
