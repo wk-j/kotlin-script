@@ -7,3 +7,5 @@
 - [x] [Vararg](Single/Vararg)
 - [x] [Single expression](Single/SingleExpression)
 - [x] [Function return function](Single/FunctionReturnFunction)
+- [x] [Primary constructor](Single/PrimaryConstructor)
+- [x] [Infix notation](Single/InfixNotation)
