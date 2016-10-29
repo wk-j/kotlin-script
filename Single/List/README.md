@@ -9,4 +9,5 @@ println(fooList.last() == "c")
 val fooMutableList = mutableListOf("a", "b", "c")
 fooMutableList.add("d")
 println(fooMutableList.size == 4)
+
 ```
