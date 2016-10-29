@@ -2,6 +2,7 @@
 
 - [DataClass](Single/DataClass)
 - [DefaultArgsValue](Single/DefaultArgsValue)
+- [Extension](Single/Extension)
 - [FunctionReturnFunction](Single/FunctionReturnFunction)
 - [Hello](Single/Hello)
 - [HighOrderFunction](Single/HighOrderFunction)
@@ -16,6 +17,7 @@
 - [Sequence](Single/Sequence)
 - [Set](Single/Set)
 - [SingleExpression](Single/SingleExpression)
+- [Singleton](Single/Singleton)
 - [SmartCast](Single/SmartCast)
 - [Vararg](Single/Vararg)
 - [When](Single/When)
