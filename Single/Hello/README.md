@@ -2,5 +2,4 @@
 
 ```kotlin
 println("Hello, world!")
-
 ```
