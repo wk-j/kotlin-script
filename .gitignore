@@ -4,3 +4,5 @@ tools
 .gradle
 build
 web
+out
+.idea
