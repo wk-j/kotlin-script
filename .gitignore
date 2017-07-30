@@ -1,3 +1,6 @@
 tools
 *.js
 *.kjsm
+.gradle
+build
+web
