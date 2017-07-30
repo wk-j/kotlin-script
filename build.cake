@@ -10,7 +10,7 @@ Task("Build-Readme").Does(() => {
 
     files.ForEach(file => {
         Console.WriteLine(file.FullName);
-        var text = System.IO.File.ReadAllText("T4/readme.template");
+        var text = System.IO.File.ReadAllText("Template/readme.template");
         var source = System.IO.File.ReadAllText(file.FullName);
         var name = file.Name;
         var newText = text
@@ -25,7 +25,7 @@ Task("Build-Readme").Does(() => {
         links.Add(link);
     });
 
-    var mainTemplate = System.IO.File.ReadAllText("T4/main.template");
+    var mainTemplate = System.IO.File.ReadAllText("Template/main.template");
     var mainText = mainTemplate.Replace("{{links}}", String.Join("\n", links));
     System.IO.File.WriteAllText("README.md", mainText);
 });

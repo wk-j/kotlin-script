@@ -1,4 +1,4 @@
-## Try Kotlin
+## Learn Kotlin
 
 - [DataClass](Single/DataClass)
 - [DefaultArgsValue](Single/DefaultArgsValue)
